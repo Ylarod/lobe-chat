@@ -56,3 +56,4 @@ export const viewport: Viewport = {
   viewportFit: 'cover',
   width: 'device-width',
 };
+export const runtime = 'edge';

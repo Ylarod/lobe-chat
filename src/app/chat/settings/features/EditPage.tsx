@@ -33,3 +33,4 @@ const EditPage = memo(() => {
 });
 
 export default EditPage;
+export const runtime = 'edge';

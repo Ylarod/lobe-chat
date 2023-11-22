@@ -10,3 +10,4 @@ export default () => {
 
   return <Page />;
 };
+export const runtime = 'edge';
